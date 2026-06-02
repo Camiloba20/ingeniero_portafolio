@@ -13,3 +13,17 @@ Archivo de ejemplo con datos de ventas
 - Bash scripting
 - Procesamiento de datos con cut, sort, uniq
 - Git y control de versiones
+**Función:** Analiza el CSV y genera reporte con:
+- Total de unidades vendidas
+- Ventas por producto
+- Producto estrella (más vendido)
+**Uso:**
+```bash
+python3 analizador_ventas.py
+**Función:** Analiza el CSV y genera reporte con:
+- Total de unidades vendidas
+- Ventas por producto
+- Producto estrella (más vendido)
+**Uso:**
+```bash
+python3 analizador_ventas.py
